@@ -18,7 +18,7 @@
 **`Full-Stack Engineer · Laravel · Vue.js · Odoo ERP · Multi-Tenant SaaS`**
 
 [![Email](https://img.shields.io/badge/ali.saieed.it@gmail.com-1F4E5F?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.saieed.it@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisaieed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-saieed)
 [![Location](https://img.shields.io/badge/Kajang%2C_Malaysia_·_Open_to_Remote_&_GCC_%2F_Europe-555?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
