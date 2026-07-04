@@ -163,7 +163,7 @@ Python / Odoo Development             ██████████████
 I'm open to **remote roles** and **on-site opportunities** across the **GCC region and Europe**, especially in product companies building operational SaaS, logistics tech, or ERP platforms.
 
 [![Email](https://img.shields.io/badge/Email_me-1F4E5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.saieed.it@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisaieed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-saieed)
 
 ---
 
