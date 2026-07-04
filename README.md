@@ -129,15 +129,21 @@ Integrated Suricata, OsQuery, and eBPF into a unified SIEM architecture for cent
 
 ## GitHub stats
 
+> **Note:** This account was suspended under US OFAC sanctions applied to Syrian nationals. During that period I continued working from alternative accounts — those contributions aren't reflected in the stats below. Activity here picks up from when access was restored.
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alisaieed&show_icons=true&theme=react&title_color=1F4E5F&icon_color=1F4E5F&text_color=444&bg_color=f8f8f8&border_color=e0e0e0&hide_border=false&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisaieed&layout=compact&theme=react&title_color=1F4E5F&text_color=444&bg_color=f8f8f8&border_color=e0e0e0&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alisaieed&theme=react&ring=1F4E5F&fire=1F4E5F&currStreakLabel=1F4E5F&background=f8f8f8&border=e0e0e0&stroke=e0e0e0&sideLabels=444&dates=666" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alisaieed&theme=react&ring=1F4E5F&fire=1F4E5F&currStreakLabel=1F4E5F&background=f8f8f8&border=e0e0e0&stroke=e0e0e0&sideLabels=444&dates=666" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisaieed&theme=github" />
+
+<br/>
+
+<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisaieed&theme=github" />
+&nbsp;
+<img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisaieed&theme=github" />
 
 </div>
 
